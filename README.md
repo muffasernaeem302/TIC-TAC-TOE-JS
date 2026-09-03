@@ -84,4 +84,4 @@ For the GitHub **About** section, use:
 > 🎮 A responsive Tic Tac Toe game built with HTML, CSS & vanilla JavaScript, featuring interactive gameplay, win/draw detection, and restart functionality.
 
 **Suggested topics:**
-`html` `css` `javascript` `tic-tac-toe` `javascript-project` `frontend` `web-development` `dom-manipulation` `responsive-design`
+`html` `css` `javascript` `tic-tac-toe` `javascript-project` `frontend` `web-development` `dom-manipulation` `responsive-design`.
